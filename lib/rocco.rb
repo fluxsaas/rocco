@@ -93,7 +93,7 @@ class Rocco
 
     defaults = {
       :language      => 'ruby',
-      :comment_chars => '/#',
+      :comment_chars => '//',
       :template_file => nil,
       :stylesheet => 'http://jashkenas.github.com/docco/resources/docco.css'
     }
